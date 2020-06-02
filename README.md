@@ -10,7 +10,7 @@ Presented in the form of Jupyter Notebooks.
 
 * <h3>Micro - Projects</h3>
      Python
-     1. [Machine Learning with Linear Regression](https://github.com/parna29/data-science-portfolio/blob/master/Machine%20Learning%20with%20Linear%20Regression.ipynb) :
+     1. [https://github.com/parna29/data-science-portfolio/blob/master/Machine%20Learning%20with%20Linear%20Regression.ipynb](Machine Learning with Linear Regression) :
          
          
          
