@@ -9,4 +9,5 @@ Presented in the form of Jupyter Notebooks.
 <h2>Contents</h2>
 
 * <h3>Micro - Projects</h3>
+  * <h1>Python</h1>
 
