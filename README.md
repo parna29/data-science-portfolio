@@ -18,7 +18,7 @@ Presented in the form of Jupyter Notebooks.
      
      Data Analysis
      
-      * [Data Analysis Project - Biodiversity](https://github.com/parna29/data-science-portfolio/blob/master/Data%20Analysis%20Project%20-%20Biodiversity.ipynb) : A micro project to analyze some data about species at various national parks.          
+     * [Data Analysis Project - Biodiversity](https://github.com/parna29/data-science-portfolio/blob/master/Data%20Analysis%20Project%20-%20Biodiversity.ipynb) : A micro project to analyze some data about species at various national parks.          
          
          
         
