@@ -18,8 +18,7 @@ Presented in the form of Jupyter Notebooks.
      * [ML with K Nearest Neighbours](https://github.com/parna29/data-science-portfolio/blob/master/ML%20with%20K%20Nearest%20Neighbours.ipynb) : Using K Nearest Neighbour to predict whether a patient has breast cancer.
      
      Data Analysis
-      
-     * [Data Analysis Project - Biodiversity](https://github.com/parna29/data-science-portfolio/blob/master/Data%20Analysis%20Project%20-%20Biodiversity.ipynb) : A micro project to analyze some data about species at various national parks.          
+      * [Data Analysis Project - Biodiversity](https://github.com/parna29/data-science-portfolio/blob/master/Data%20Analysis%20Project%20-%20Biodiversity.ipynb) : A micro project to analyze some data about species at various national parks.          
          
          
         
