@@ -8,7 +8,7 @@ Presented in the form of Jupyter Notebooks.
 
 <h2>Contents</h2>
 
-* <h3>Projects</h3>
+* <h3>Machine Learning Algorithms</h3>
       Supervised Machine Learning
      
      * [Machine Learning with Linear Regression](https://github.com/parna29/data-science-portfolio/blob/master/Machine%20Learning%20algorithms/ML%20with%20Linear%20Regression.ipynb) : Using Linear Regression to predict decline rate of honey bee.
