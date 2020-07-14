@@ -22,7 +22,11 @@ Presented in the form of Jupyter Notebooks.
      
      Data Analysis
      
-     * [Data Analysis Project - Biodiversity](https://github.com/parna29/data-science-portfolio/blob/master/Data%20Analysis%20Project%20-%20Biodiversity.ipynb) : A micro project to analyze some data about species at various national parks.          
+     * [Data Analysis Project - Biodiversity](https://github.com/parna29/data-science-portfolio/blob/master/Data%20Analysis%20Project%20-%20Biodiversity.ipynb) : A micro project to analyze some data about species at various national parks.   
+     
+* <h3>Deep Learning with PyTorch</h3>     
+
+     * [Gradient Descent and Linear Regression](https://github.com/parna29/data-science-portfolio/blob/master/Deep%20Learning%20using%20PyTorch/Gradient%20Descent%20and%20Linear%20Regression.ipynb) : A basic project which showcases implementation of partial derivative and of Linear Regression using Object Oriented Programming approach.
          
          
         
