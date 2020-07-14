@@ -26,7 +26,8 @@ Presented in the form of Jupyter Notebooks.
      
 * <h3>Deep Learning with PyTorch</h3>     
 
-     * [Gradient Descent and Linear Regression](https://github.com/parna29/data-science-portfolio/blob/master/Deep%20Learning%20using%20PyTorch/Gradient%20Descent%20and%20Linear%20Regression.ipynb) : A basic project which showcases implementation of partial derivative and of Linear Regression using Object Oriented Programming approach.
+     * [Gradient Descent and Linear Regression](https://github.com/parna29/data-science-portfolio/blob/master/Deep%20Learning%20using%20PyTorch/Gradient%20Descent%20and%20Linear%20Regression.ipynb) : A basic project which showcases implementation of partial derivative and of Linear Regression using Object Oriented Programming approach.     
+     * [Perceptron](https://github.com/parna29/data-science-portfolio/blob/master/Deep%20Learning%20using%20PyTorch/Perceptron.ipynb) : Project which implements the most basic form of a neural network.
          
          
         
