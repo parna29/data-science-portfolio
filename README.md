@@ -27,8 +27,8 @@ Presented in the form of Jupyter Notebooks.
 * <h3>Deep Learning with PyTorch</h3>     
 
      * [Gradient Descent and Linear Regression](https://github.com/parna29/data-science-portfolio/blob/master/Deep%20Learning%20using%20PyTorch/Gradient%20Descent%20and%20Linear%20Regression.ipynb) : A basic project which showcases implementation of partial derivative and of Linear Regression using Object Oriented Programming approach.     
-     * [Perceptron](https://github.com/parna29/data-science-portfolio/blob/master/Deep%20Learning%20using%20PyTorch/Perceptron.ipynb) : Project which implements the most basic form of a neural network, a perceptron and uses a linear model to classify 2 regions of data.
-     * [Deep Neural Networks](https://github.com/parna29/data-science-portfolio/blob/master/Deep%20Learning%20using%20PyTorch/Deep%20Neural%20Networks.ipynb) : Uses a non - linear model to find boundary between the 2 datasets.
+     * [Perceptron](https://github.com/parna29/data-science-portfolio/blob/master/Deep%20Learning%20using%20PyTorch/Perceptron.ipynb) : Implements the most basic form of a neural network, a perceptron and uses a linear model to classify 2 regions of data.
+     * [Deep Neural Networks](https://github.com/parna29/data-science-portfolio/blob/master/Deep%20Learning%20using%20PyTorch/Deep%20Neural%20Networks.ipynb) : Uses a non-linear model to find boundary between the 2 datasets and trains a deep neural network.
          
          
         
