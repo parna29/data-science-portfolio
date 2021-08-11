@@ -18,11 +18,7 @@ Presented in the form of Jupyter Notebooks.
      * [Machine Learning with Support Vector Machine](https://github.com/parna29/data-science-portfolio/blob/master/Machine%20Learning%20algorithms/ML%20with%20Support%20Vector%20Machine.ipynb) : Using Support Vector Machine to find the decision boundary of the strike zone in baseball. (Sports Vector Machine)
      * [Machine Learning with Decision Trees](https://github.com/parna29/data-science-portfolio/blob/master/Machine%20Learning%20algorithms/ML%20with%20Decision%20Trees.ipynb) : Using Decision Trees to find the best features which enable to predict the continent from which a given flag comes from.  
      * [Machine Learning with Random Forests](https://github.com/parna29/data-science-portfolio/blob/master/Machine%20Learning%20algorithms/ML%20with%20Random%20Forests.ipynb) : Using Random Forests to predict whether a person makes more than a threshold income.
-     
-     
-     Data Analysis
-     
-     * [Data Analysis Project - Biodiversity](https://github.com/parna29/data-science-portfolio/blob/master/Data%20Analysis%20Project%20-%20Biodiversity.ipynb) : A micro project to analyze some data about species at various national parks.   
+        
      
 * <h3>Deep Learning with PyTorch</h3>     
 
